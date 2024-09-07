@@ -1,6 +1,5 @@
 ## I'm Sayoko Tsukuda 👋 Thank you for comming 🎉
-
-![header](https://github.com/user-attachments/assets/dffb89b4-af28-4562-be7e-b74df47a37e7)
+![twitter_header_photo_2](https://github.com/user-attachments/assets/567aea9a-07ec-4b53-b130-4f25db930fbd)
 
 ## My skills
 <p align="center">
