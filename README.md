@@ -1,5 +1,7 @@
 ## I'm Sayoko Tsukuda 👋 Thank you for comming 🎉
 
+![header](https://github.com/user-attachments/assets/dffb89b4-af28-4562-be7e-b74df47a37e7)
+
 ## My skills
 <p align="center">
   <a href="https://skillicons.dev">
