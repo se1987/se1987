@@ -1,6 +1,7 @@
 ![twitter_header_photo_2](https://github.com/user-attachments/assets/0e27e433-1528-4d18-804e-5dc8b5423ff5)
 
 ## I'm Sayoko Tsukuda 👋 Thank you for comming 🎉
+![](https://komarev.com/ghpvc/?username=se1987&color=green)
 
 ## 🎨 My skills
 <p align="center">
