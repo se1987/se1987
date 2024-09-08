@@ -17,6 +17,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=se1987&layout=compact&theme=blueberry&langs_count=5" alt="Top Langs" style="width: 49%; height: 194px;"/>
 </div>
 
-<div align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=se1987)](https://github.com/se1987/se1987/github-profile-trophy)
-</div>
+![trophy](https://github-profile-trophy.vercel.app/?username=se1987)](https://github.com/se1987/se1987/github-profile-trophy)
