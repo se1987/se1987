@@ -18,5 +18,5 @@
 </div>
 
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=se1987)](https://github.com/se1987/se1987/github-profile-trophy)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=se1987)](https://github.com/se1987/se1987/github-profile-trophy)
 </div>
