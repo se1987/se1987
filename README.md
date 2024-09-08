@@ -7,7 +7,7 @@
 ## 🎨 My skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,ts,react,nextjs,js,jest,html,css,tailwind,express,postman,prisma,redis,postgres,mysql,git,docker,md,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,fastapi,react,nextjs,tailwind,express,prisma,redis,postgres,mysql,jest,git,docker,postman,md,vscode" />
   </a>
 </p>
 
