@@ -1,6 +1,6 @@
 ![twitter_header_photo_2](https://github.com/user-attachments/assets/0e27e433-1528-4d18-804e-5dc8b5423ff5)
 
-## I'm Sayoko Tsukuda 👋 Thank you for comming 🎉
+## I'm Sayoko 👋 Thank you for comming 🎉
 ![](https://komarev.com/ghpvc/?username=se1987&color=green)
 ![](https://img.shields.io/github/followers/se1987?label=Follow&logo=github&style=flat&color=blue&labelColor=000040)
 ![](https://qiita-badge.apiapi.app/s/se1987/posts.svg)
