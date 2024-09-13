@@ -4,6 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=se1987&color=green)
 ![](https://img.shields.io/github/followers/se1987?label=Follow&logo=github&style=flat&color=blue&labelColor=000040)
 ![](https://qiita-badge.apiapi.app/s/se1987/posts.svg)
+![](https://qiita-badge.apiapi.app/s/se1987/contributions.svg)
+
 
 ## 🎨 My skills
 <p align="center">
