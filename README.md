@@ -20,6 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=se1987&layout=compact&theme=blueberry&langs_count=5" alt="Top Langs" style="width: 49%; height: 194px;"/>
 </div>
 
+## 🌱 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=se1987&theme=blueberry)](https://git.io/streak-stats)
 
 ## 🏆 trophy
