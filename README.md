@@ -21,8 +21,8 @@
 </div>
 
 ## 🌱 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=se1987&theme=blueberry)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=se1987&theme=blueberry)](https://git.io/streak-stats)
 
 ## 🏆 trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=se1987)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=se1987)
 
