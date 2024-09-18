@@ -3,7 +3,9 @@
 ## I'm Sayoko 👋 Thank you for comming 🎉
 ![](https://komarev.com/ghpvc/?username=se1987&color=green)
 ![](https://img.shields.io/github/followers/se1987?label=Follow&logo=github&style=flat&color=blue&labelColor=000040)
-![](https://qiita-badge.apiapi.app/s/se1987/posts.svg)
+<a href="https://qiita.com/se1987" target="_blank" rel="noopener noreferrer">
+  <img src="https://qiita-badge.apiapi.app/s/se1987/posts.svg" alt="Qiita Badge">
+</a>
 ![](https://qiita-badge.apiapi.app/s/se1987/contributions.svg)
 
 
