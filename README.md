@@ -10,7 +10,6 @@
   <img src="https://qiita-badge.apiapi.app/s/se1987/contributions.svg" alt="Qiita Badge">
 </a>
 
-
 ## 🎨 My skills
 <p align="center">
   <a href="https://skillicons.dev">
