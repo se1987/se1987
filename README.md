@@ -33,6 +33,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=se1987" alt="trophy" />
 </p>
 
+## 💻 lapras score
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/se1987" target="_blank" rel="noopener noreferrer"><img alt="se1987のLAPRASでのスコアは次の通りです: エンジニアリング: 3.10 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 2.5 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.82&b=2.85&i=3.59&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a></p>
+<p ><a href="https://lapras.com/public/se1987" target="_blank" rel="noopener noreferrer"><img alt="se1987のLAPRASでのスコアは次の通りです: エンジニアリング: 3.10 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 2.5 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.10&b=2.5&i=3.59&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
