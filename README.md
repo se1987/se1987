@@ -18,7 +18,7 @@
 </p>
 
 ## 📈 Status
-<div style="display: flex; align-items: center;">
+<div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=se1987&layout=compact&theme=blueberry&langs_count=5" alt="Anurag's GitHub stats" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=se1987&layout=compact&theme=blueberry&langs_count=5" alt="Top Langs" />
 </div>
